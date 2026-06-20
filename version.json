@@ -1,6 +1,1 @@
-{
-  "version": "1.4.0",
-  "exe_name": "L2Launcher.exe",
-  "exe_hash": "b4fafd0c5f1164d35403336d47c66c4a3236faa94dbe3a0753275b5bee6b5cc5",
-  "exe_size": 11190784
-}
+{"version": "1.4.12", "exe_hash": "7c23f3ba6aeaa8767bd12283e2586e61e315c31ad00d27ac32ee584c8cf7bc95", "exe_size": 11225672, "required_files": [], "changelog": "Aktualizacja launchera: czystsze logi (bez wrazliwych danych), koniec falszywych komunikatow o uszkodzonych plikach, oraz poprawka zamykania klienta przy trybie offline."}
